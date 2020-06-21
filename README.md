@@ -23,9 +23,8 @@ Task lists,"what I have done so far?"
 - [ ] go back home
 
 for making a table use hyphens:
-yes          | no
------------- | -------------
-one          |two
-three        |four
+| one   |      two      |  three |
+|-------|:-------------:|-------:|
+| four  |          five | six    |
   
 
