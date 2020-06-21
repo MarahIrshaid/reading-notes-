@@ -15,8 +15,11 @@ Use > for block quotes:
 `<life is beautiful>` 
 </br>
   ,  Indention is very important ,use four spaces. </br>
+  
+  
+  
 ``` use this sympol for highlighting. </br>
-```life is great
+```life is great```
 
 
 Task lists,"what I have done so far?"
@@ -30,11 +33,15 @@ for making a table use hyphens:
 |-------|:-------------:|-------:|
 | four  |          five | six    |
   
-Any number that refers to an Issue or Pull Request will be automatically converted into a link. #3
-mention someone @marahirshaid96
-http://www.github.com/   urls are converted to clickable links directly.
+Any number that refers to an Issue or Pull Request will be automatically converted into a link. #3 </br>
+
+mention someone @marahirshaid96 </br>
+
+http://www.github.com/   urls are converted to clickable links directly. </br>
+
 ~~delete_this~~
-curly dashes can make the text crossed out.
+curly dashes can make the text crossed out. </br>
+
 :smiley:
 
 
