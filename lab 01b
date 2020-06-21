@@ -22,5 +22,14 @@ for all bold and italic use three stars before and after text.
 9. mention people : @MarahIrshaid
 10. You can add emoji to your writing by typing :EMOJICODE:.
 11. You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
+</br>
+# **Github pages** :
+1. make a profile on *github*.
+2. **make a new _repository_**.
+3. go to settings .
+4. choose a theme
+5. write your own content in the code bar.
+6. click Commit changes and your updates will go live in just a few seconds!
+
 
 
