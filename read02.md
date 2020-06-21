@@ -25,9 +25,9 @@ each one has its own features:
 **IDE** An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
 
 ## commands and functions:
-cd	to change directories
-sudo	to use a root user
-ls	 to list files in the  current folder
-pwd	to know  the current location
-touch	to create a file
-mkdir to create a folder
+1. cd	to change directories.
+2. sudo	to use a root user
+3. ls	 to list files in the  current folder
+4. pwd	to know  the current location
+5. touch	to create a file
+6. mkdir to create a folder
