@@ -17,13 +17,17 @@ each one has its own features:
 ![GitHub Logo](https://bufferwall.com/download/B20190831T000000046.jpg)
 
 
-</br>
-* one 
-* two
--three
-- four
+
 
 ##  Comparison of “basic” text editor vs coding-specific text editor vs IDE.
 **basic text editors** don’t have many features to speak of. They’re the barestbare bones text editors you’ll encounter.
 **coding-specific text editor** —it edits text.It also manages text, and manages files.
 **IDE** An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
+
+## commands and functions:
+cd	to change directories
+sudo	to use a root user
+ls	 to list files in the  current folder
+pwd	to know  the current location
+touch	to create a file
+mkdir to create a folder
