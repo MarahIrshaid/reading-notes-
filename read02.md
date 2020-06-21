@@ -16,7 +16,7 @@ each one has its own features:
 </br>
 ![GitHub Logo](https://bufferwall.com/download/B20190831T000000046.jpg)
 - one 
--two
+- two
 
 ##  Comparison of “basic” text editor vs coding-specific text editor vs IDE.
 **basic text editors** don’t have many features to speak of. They’re the barestbare bones text editors you’ll encounter.
