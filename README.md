@@ -1,34 +1,29 @@
-## Mardown is a way of writing code just by adding # or * with text so ot will be transformed into a styled text just like HTML and CSS.
+ Markdown is a way of writing code just by adding (#) or (*) with text so ot will be transformed into a styled text just like HTML and CSS.
 To make bold writing use two stars around the **text** or use __ two underdashes, to make it italic use just one star arount the text *text* or use _ .
-To make heading text, type # hashtag for getting a bigger text # This is an <h1> tag, ## This is an <h2> tag, ###### This is an <h6> tag.
- for emphasis use : 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-   or for ordered  use:
-  
-  1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-to put an image use this code :![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-to put a link use this code : ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-use > for block quotes
-use `<addr>` for inline code
-indention is very important ,use four spaces.
+ To make heading text, type # hashtag for getting a bigger text (#) This is an <h1> tag, (##) This is an <h2> tag, (######) This is an <h6> tag.
+ For emphasis use one star before the text.   or for ordered list use number followed my dot.
+
+ ![GitHub Logo](https://images.unsplash.com/photo-1464982326199-86f32f81b211?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+ 
+  ![GitHub Logo](https://www.google.com/)
+
+Use > for block quotes:
+> life is beautiful.
+Use `<addr>` for inline code :
+`<life is beautiful>` 
+    Indention is very important ,use four spaces.
 ``` use this sympol for highlighting.
-task lists
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+```life is great
 
 
-for making tables : use hyphens
-Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
 
+
+Task lists,"what I have done so far?"
+- [x] brush your teeth
+- [x] comb your hair
+- [x] go to work
+- [ ] go back home
   
+  
+  
+for making tables : use hyphens
