@@ -27,4 +27,11 @@ for making a table use hyphens:
 |-------|:-------------:|-------:|
 | four  |          five | six    |
   
+Any number that refers to an Issue or Pull Request will be automatically converted into a link. #3
+mention someone @marahirshaid96
+http://www.github.com/   urls are converted to clickable links directly.
+~~delete_this~~
+curly dashes can make the text crossed out.
+:smiley:
+
 
