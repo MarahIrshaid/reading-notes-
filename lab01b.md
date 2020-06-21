@@ -30,6 +30,10 @@ for all bold and italic use three stars before and after text.
 4. choose a theme
 5. write your own content in the code bar.
 6. click Commit changes and your updates will go live in just a few seconds!
+</br>
 
-
+# Reminder to my self :
+1. keep ambitious 
+2. keep your eye on the goal
+3. be optimistic and have a growth mindset
 
