@@ -93,15 +93,16 @@ has an extra forward slash in it.) Each HTML element tells the browser
 something about the information that sits between its opening and
 closing tags
 
+these are some tags famous in HTML.
+
 <html> 
 <head> </head>
-<tilte> </title>
+<title> </title>
 <body>
 <p> </p>
 <h1> </h1> 
 </body>
 </html>
-these are some tags famous in HTML.
 
 
 # Chapter 17 summary : HTML5
@@ -127,11 +128,6 @@ overall meaning* </br>
 <section> </br>
 6. Heading Groups
 <hgroup> </br>
-The purpose of the <hgroup>
-element is to group together a
-set of one or more <h1> through
-<h6> elements so that they are
-treated as one single heading.  </br>
 
 7. Figures
 <figure> <figcaption> 
@@ -149,17 +145,7 @@ body of an article </br>
 9. <a>  </a> can contain all other elements and they will be transformed to a link. </br>
 
  ##### **Helping Older Browsers Understand**
-you need to use this code :
-**for CSS:**
-*header, section, footer, aside, nav, article, figure
-{
-display: block;}*
 
-**for HTML:**
-*<!--[if lt IE 9]>
-<script src="http://html5shiv.googlecode.com/svn/
- trunk/html5.js"></script>
-<![endif]-->*
 
 using earlier versions of IE, you
 need to use a simple JavaScript
