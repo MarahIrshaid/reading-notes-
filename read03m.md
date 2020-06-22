@@ -62,3 +62,8 @@ Rebasing replays changes from one line of work onto another in the order they we
 whereas merging takes the endpoints and merges them together
 
 
+Command	function
+Git status	get the Status of the files
+Git add to	Track file
+Git commit	to Commit changes
+Git push	to Push changes to repo
