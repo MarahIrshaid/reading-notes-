@@ -63,7 +63,7 @@ whereas merging takes the endpoints and merges them together
 
 
 Command	function
-Git status	get the Status of the files
-Git add to	Track file
-Git commit	to Commit changes
-Git push	to Push changes to repo
+1. Git status	get the Status of the files </br>
+2. Git add to	Track file </br>
+3. Git commit	to Commit changes </br>
+4. Git push	to Push changes to repo </br>
