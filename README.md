@@ -9,7 +9,7 @@ I love computer and I want to build beautiful things using it.
 
 File | Link
 ------------ | -------------
-lab01b.md | https://marahirshaid.github.io/reading-notes-/lab01b
-read02.md | https://marahirshaid.github.io/reading-notes-/read02
-README.md | https://marahirshaid.github.io/reading-notes-/readme
-homepage.md | https://marahirshaid.github.io/reading-notes-/homepage
+lab01b.md | [LMindset](https://marahirshaid.github.io/reading-notes-/lab01b)
+read02.md | [Text editor](https://marahirshaid.github.io/reading-notes-/read02)
+homepage.md | [what's markdown](https://marahirshaid.github.io/reading-notes-/homepage)
+Read03 | [Git intro](https://marahirshaid.github.io/reading-notes-/read03)
