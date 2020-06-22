@@ -108,15 +108,141 @@ these are some tags famous in HTML.
 
 
 
-**some of the semantic tags:** 
+**some of the semantic tags that are commonly used in the vast majority of web pages :** 
 
-Headers & Footers
-<header> <footer>
-Navigation
-<nav>
-Articles
-<article>
-Asides
+1. Headers & Footers
+<header> <footer> </br>
+2. Navigation
+<nav> </br>
+3. Articles
+<article> </br>
+4. Asides
 <aside>
+ *used inside an <article>
+element, it should contain
+information that is related to the
+article but not essential to its
+overall meaning* </br>
+5.Sections
+<section> </br>
+6. Heading Groups
+<hgroup> </br>
+The purpose of the <hgroup>
+element is to group together a
+set of one or more <h1> through
+<h6> elements so that they are
+treated as one single heading.  </br>
+
+7. Figures
+<figure> <figcaption> 
+could contain ● Images
+* Videos
+* Graphs
+* Diagrams
+* Code samples
+* Text that supports the main
+body of an article </br>
 
 
+8. Sectioning Elements
+<div> </br>
+9. <a>  </a> can contain all other elements and they will be transformed to a link. </br>
+
+ ##### **Helping Older Browsers Understand**
+you need to use this code :
+**for CSS:**
+*header, section, footer, aside, nav, article, figure
+{
+display: block;}*
+
+**for HTML:**
+*<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/
+ trunk/html5.js"></script>
+<![endif]-->*
+
+using earlier versions of IE, you
+need to use a simple JavaScript
+known as the HTML5 shiv or
+HTML5 shim. 
+
+these elements are common used in the vast majority of web pages.
+ 
+### chapter 17 summary has ended.
+
+#  Chapter 8 - Extra Markup , Summary :
+
+web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using.
+
+the doc types has changed during the evolution of HTML , since xml files to HTML5 
+> <?xml version="1.0" ?> ,,,,,, this is for xml files the oldest version of HTML.
+> <!DOCTYPE html> ,,,,,, this is for HTML5 ,the newest version of HTML.
+
+
+**Comments in HTML :**
+write the comment like this and it will not appear in the rendered page.
+<!-- comment goes here -->
+
+Comments can also be use around blocks of code to stop that code from being displayed in the browser.
+ 
+
+**ID Attribute**
+just like in CSS
+
+
+<p id="pullquote">Every time I view the sea I feel
+ a calming sense of security, as if visiting my
+ ancestral home; I embark on a voyage of seeing.
+</p>
+
+**class attribute**
+
+<p class="important">For a one-year period from
+ November 2010, the Marugame Genichiro-Inokuma
+ Museum of Contemporary Art (MIMOCA) will host a
+ cycle of four Hiroshi Sugimoto exhibitions.</p>
+
+
+**Block elements VS inline elements:**
+
+In general, block level elements are usually structural, while inline elements are usually text based.
+**Block elements:**
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
+
+Examples of block elements are
+<h1>, <p>, <ul>, and <li>.
+
+**Inline elements:**
+Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
+Examples of inline elements are
+<a>, <b>, <em>, and <img>
+
+**Grouping Text & Elements In a Block:**
+<div>
+
+the <div> tag defines a division or a section in an HTML document. The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript. The <div> tag is easily styled by using the class or id attribute
+
+**Grouping Text & Elements Inline**
+<span>
+
+**IFrames:**
+<iframe>
+One common use of iframes  is to embed a Google Map into a page. 
+ There are a few attributes that you will need to know to use it:
+*src*
+The src attribute specifies the
+URL of the page to show in the
+frame.
+*height*
+The height attribute specifies
+the height of the iframe in pixels.
+*width*
+The width attribute specifies
+the width of the iframe in pixels
+*scrolling* not supported in HTML5
+This is important if the page inside the iframe is larger than the space you have allowed for it (using the height and width attributes.
+
+
+**Information About Your Pages**
+
+use <meta>
