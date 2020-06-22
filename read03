@@ -14,5 +14,63 @@ You can download Git by visiting this link and following the posted directions:
 
 http://git-scm.com/download/win
 
+## Local Repository Structure
+The local Git repository has three components:
 
+1. Working Directory: The actual files reside here.
+2. Index: The area used for staging
+3. Head: Points to the most recent commit
+
+
+## Commands for github and ubuntu:
+First Header command| what it does
+------------ | -------------
+git add filename.md| Tracking and Staging a New File
+git commit -m "message" | committing a file
+git push origin push | pushing changes to github
+git remote -v |  view all the remote URLs next to their corresponding short names
+
+
+# By using git remote -v, you can view all the remote URLs next to their corresponding short names.
+>$ cd example
+> $ git remote -v
+> remote1 https://github.com/remote1/example (fetch)
+> remote1 https://github.com/remote1/example (push)
+> remote2 https://github.com/remote2/example (fetch)
+> remote2 https://github.com/remote2/example (push)
+> remote3 https://github.com/remote3/example (fetch)
+> remote3 https://github.com/remote3/example (push)
+
+
+
+### To create a new remote Git repository with a short name, use the following format:
+
+> git remote add shortname url
+
+## Fetching :
+what is fetching? its Fetching entails pulling data that you don’t have from a remote project.
+
+code? git fetch [remote-name]
+what is pushing? uploading a file upto gethub.
+code? git push [remote-name][branch-name]
+Example: $ git push origin master
+
+
+
+## Renaming/Removing Remotes
+#### rename:
+use the "git remote rename" command
+## The command git remote lists our existing remotes
+#### Remove:
+use the git remote rm command
+
+
+Commit Mistakes
+$ git commit --amend
+Unstaging a File
+$ git reset HEAD index.html
+
+Unstaged changes after reset:
+
+M index.html
 
