@@ -196,23 +196,23 @@ In general, block level elements are usually structural, while inline elements a
 Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
 
 Examples of block elements are
-<h1>, <p>, <ul>, and <li>.
+heading tag, paragraph tag, unordered list tag, and item list tag.
 
 **Inline elements:**
 Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 Examples of inline elements are
-<a>, <b>, <em>, and <img>
+link tag, bold text tag, emphasis tag, and image tag
 
 **Grouping Text & Elements In a Block:**
-<div>
+div tag
 
-the <div> tag defines a division or a section in an HTML document. The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript. The <div> tag is easily styled by using the class or id attribute
+the div tag tag defines a division or a section in an HTML document. The div tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript. The div tag is easily styled by using the class or id attribute
 
 **Grouping Text & Elements Inline**
-<span>
+span tag
 
 **IFrames:**
-<iframe>
+iframe tag
 One common use of iframes  is to embed a Google Map into a page. 
  There are a few attributes that you will need to know to use it:
 *src*
@@ -231,4 +231,4 @@ This is important if the page inside the iframe is larger than the space you hav
 
 **Information About Your Pages**
 
-use <meta>
+use meta tag
