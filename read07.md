@@ -1,6 +1,6 @@
 # Chapter 1: Summary pages 1-24:
 
-Java script can be used either to access content or to mpdify content
+Java script can be used either to access content or to modify content
  , RELOAD PART OF PAGE or filtering data
 
 
